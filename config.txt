@@ -1,2 +1,4 @@
 some config that were checked after init
 some changes after initial pull
+
+some change after feature3 added directly to repo

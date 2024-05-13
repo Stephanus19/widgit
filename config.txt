@@ -1,1 +1,2 @@
 some config that were checked after init
+some changes after initial pull
